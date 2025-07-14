@@ -74,23 +74,13 @@ Clean and responsive UI with CSS styling
 bash
 Copy
 Edit
-📂 early-diabetes-prediction/
+📂 Early-Diabetes-Prediction/
 ├── 📄 README.md
 ├── 📄 app.py                 # Streamlit App
 ├── 📄 model_training.ipynb  # Model training and Optuna tuning
-├── 📄 eda_visuals.ipynb     # EDA & Visualization
-├── 📄 requirements.txt
 ├── 📄 earlyDiabetesPredictor.pkl
 ├── 📄 scaler.pkl
-└── 📊 dataset.csv
-📦 Installation
-bash
-Copy
-Edit
-git clone https://github.com/your-username/early-diabetes-prediction.git
-cd early-diabetes-prediction
-pip install -r requirements.txt
-streamlit run app.py
+└── 📊 diabetes.csv
 
 🙋‍♂️ Author
 Made with ❤️ by Muhammad Zaid Naeem
