@@ -75,7 +75,7 @@ bash
 Copy
 Edit
 📂 Early-Diabetes-Prediction/
-├── 📄 README.md
+├── 📄 README.md  
 ├── 📄 app.py                 # Streamlit App
 ├── 📄 model_training.ipynb  # Model training and Optuna tuning
 ├── 📄 earlyDiabetesPredictor.pkl
