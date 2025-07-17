@@ -2,6 +2,8 @@
 
 ![App Screenshot](img.jpg)
 
+ Project 2 of my 25 Premium AI Projects Challenge
+
 🩺 Early Diabetes Prediction using Machine Learning
 This project is a machine learning application that predicts the likelihood of diabetes based on various medical attributes. It includes end-to-end steps from data preprocessing and exploratory data analysis to model optimization, evaluation, and deployment with a Streamlit app.
 
