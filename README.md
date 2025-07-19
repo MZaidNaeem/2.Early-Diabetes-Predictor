@@ -1,5 +1,9 @@
 # 2.Early-Diabetes-Predictor
 
+
+🔗 🚀 Live Demo 
+[🔗 Click Here to Try the Live Demo](https://diabetespredictionbyzaidnaeem.streamlit.app/)
+
 ![App Screenshot](img.jpg)
 
  Project 2 of my 25 Premium AI Projects Challenge
